@@ -418,4 +418,4 @@ How can you test this route?
 
 ## Lab time!
 
-[Link to Lab](https://github.com/joinpursuit/tuner-full-stack-app)
+[Link to Lab](https://github.com/9-1-pursuit/lab-express-sql-seed-read)
