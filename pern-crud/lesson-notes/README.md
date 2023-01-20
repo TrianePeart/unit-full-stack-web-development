@@ -1,7 +1,7 @@
 ## Getting Started
 
 - Go to your bookmarks2 app and get it started with `nodemon`.
-- Fork the `starter-pern-crud` in your class GitHub Organization
+- Fork the `bookmarks2-frontend-starter` in your class GitHub Organization
 - `git clone` the forked repository
 - Rename the folder **bookmarks2-frontend**
 - You should now have two separate folders, **bookmarks2** and **bookmarks2-frontend**
