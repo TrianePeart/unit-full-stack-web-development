@@ -122,4 +122,4 @@ app.use("/reviews", reviewsController);
 
 ## Onwards
 
-Let's build this into our [front-end](./README2.md)
+Let's build this into our [front-end](https://github.com/9-1-pursuit/unit-full-stack-web-development/tree/main/pern-one-to-many-front-end/lesson-notes)
