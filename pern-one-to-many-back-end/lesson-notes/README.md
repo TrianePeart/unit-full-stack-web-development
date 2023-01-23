@@ -86,8 +86,8 @@ Copy and paste these:
 ```sql
 INSERT INTO reviews (bookmark_id, reviewer, title, content, rating )
 VALUES
-('1', 'Evan', 'My Favorite', 'This website crushes it when it comes to awesome explanations, 3),
-('2', 'Evan', 'My Favorite', 'This website crushes it when it comes to inspiring me, 3),
+('1', 'Evan', 'My Favorite', 'This website crushes it when it comes to awesome explanations', 3),
+('2', 'Evan', 'My Favorite', 'This website crushes it when it comes to inspiring me', 3),
 ('3', 'Evan', 'My Least Favorite', 'This website crushes it when it comes to destroying my patience', 5),
 ('2', 'Juliana', 'I Love Going Here', 'I finally learned how to properly fold a fitted sheet', 5),
 ('2', 'David', 'Cool Site', 'But I got way into adding decorative pillows everywhere', 1),
