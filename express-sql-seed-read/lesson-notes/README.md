@@ -24,8 +24,6 @@ node_modules
 - `git add -A`
 - `git commit -m 'first commit'`
 
-- `mkdir back-end`
-- `cd back-end`
 - `touch server.js`
 - `npm init -y` (this will automatically say yes to all the npm default settings - this is fine for tutorials, small test builds, etc.)
 - `touch app.js .env`
